@@ -1,0 +1,14 @@
+/home/herr/.codes/src-charp/ex24/bin/Debug/net8.0/ex24
+/home/herr/.codes/src-charp/ex24/bin/Debug/net8.0/ex24.deps.json
+/home/herr/.codes/src-charp/ex24/bin/Debug/net8.0/ex24.runtimeconfig.json
+/home/herr/.codes/src-charp/ex24/bin/Debug/net8.0/ex24.dll
+/home/herr/.codes/src-charp/ex24/bin/Debug/net8.0/ex24.pdb
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/ex24.GeneratedMSBuildEditorConfig.editorconfig
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/ex24.AssemblyInfoInputs.cache
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/ex24.AssemblyInfo.cs
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/ex24.csproj.CoreCompileInputs.cache
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/ex24.dll
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/refint/ex24.dll
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/ex24.pdb
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/ex24.genruntimeconfig.cache
+/home/herr/.codes/src-charp/ex24/obj/Debug/net8.0/ref/ex24.dll
